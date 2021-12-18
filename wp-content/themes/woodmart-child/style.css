@@ -1,0 +1,49 @@
+/*
+ Theme Name:   Woodmart Child
+ Description:  Woodmart Child Theme
+ Author:       XTemos
+ Author URI:   http://xtemos.com
+ Template:     woodmart
+ Version:      1.0.0
+ Text Domain:  woodmart
+*/
+
+
+/* EStilos Popup Newsletter */
+.wd-popup {
+    background-color: #FFF !important;
+}
+.content-form-popup {
+	margin-bottom: 0 !important;
+	padding: 2rem;
+}
+.img-popup-suscrip {
+    margin-bottom: 0px !important;
+}
+
+/* Estilos footer */
+.copyrights-wrapper {
+    border-top: 1px solid #ffffff8c !important;
+}
+
+.slider-categories-home {
+    background: #FBE6EA;
+    padding-top: 1rem;
+    border-radius: 12px;
+}
+
+.content-ser-distribuidor-text {
+	padding-top: 10%;
+}
+
+input.btn-form-newsletter {
+    background: #d45278 !important;
+}
+
+
+/***  Estilos para movil  ***/
+@media (max-width: 767.98px) {
+	.content-ser-distribuidor-text {
+		padding-top: 0;
+	}
+}
